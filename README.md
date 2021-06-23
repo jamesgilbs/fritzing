@@ -1,2 +1,2 @@
 # Fritzing
-Fritzing library devices
+Fritzing library devices, electronic Components for Fritzing Software.
